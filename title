@@ -1,0 +1,17 @@
+<div class="page-title">
+        <div class="row">
+            <div class="col-12 col-md-6 order-md-1 order-last">
+                <h3>Tooltip</h3>
+                <p class="text-subtitle text-muted">The tooltip, also known as infotip or hint, is a common graphical
+                    user interface element which shows additional information on element hover.</p>
+            </div>
+            <div class="col-12 col-md-6 order-md-2 order-first">
+                <div aria-label="breadcrumb" class="breadcrumb-header float-start float-lg-end">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">HoangTB1@fsoft.com.vn</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
